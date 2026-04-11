@@ -290,7 +290,7 @@ export function ProjectTheft() {
 
       <figure className="flex flex-col gap-2 my-6">
         <img
-          src="/89FCF258-6844-4575-BB96-A2937D0F6E91.jpg"
+          src="/my-portfolio/89FCF258-6844-4575-BB96-A2937D0F6E91.jpg"
           alt="3D CAD model of the Magnetic Obsolescence Mechanism showing 6 spring-loaded spokes with a central hub and trigger mechanism."
           className="w-full max-w-xl mx-auto rounded-md border border-border bg-white object-contain"
         />
