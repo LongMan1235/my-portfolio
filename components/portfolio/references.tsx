@@ -141,8 +141,8 @@ export function References() {
                 {ref.id}
               </span>
               <div className="space-y-2 flex-1">
-                <h3 className="font-semibold text-foreground text-sm">
-                  {ref.lecture}
+                <h3 className="font-semibold text-foreground text-sm font-mono">
+                  [{ref.id}] {ref.lecture}
                 </h3>
                 <blockquote className="border-l-2 border-primary/50 pl-4 italic text-muted-foreground">
                   &quot;{ref.quote}&quot;
