@@ -145,7 +145,7 @@ export function ProjectTheft() {
           </p>
 
           <p>
-            This framing step was what made the problem tractable from an engineering perspective rather than defaulting to administrative solutions. By narrowing the scope to a specific object class and redefining success in terms of reliability instead of accuracy, the design space became both constrained and actionable. However, this also reinforced that framing decisions are high-risk - if NGOS are defined incorrectly at this stage, they can systematically eliminate otherwise viable solutions. The consequence of this insight was that we built in explicit review checkpoints throughout the design process to revisit and validate our initial framing assumptions against emerging evidence.
+            This framing step was what made the problem tractable from an engineering perspective rather than defaulting to administrative solutions. By narrowing the scope to a specific object class and redefining success in terms of reliability instead of accuracy, the design space became both constrained and actionable. However, this also reinforced that framing decisions are high-risk. If NGOS are defined incorrectly at this stage, they can systematically eliminate otherwise viable solutions. The consequence of this insight was that we built in explicit review checkpoints throughout the design process to revisit and validate our initial framing assumptions against emerging evidence.
           </p>
 
           <p className="mt-4 text-sm border-l-2 border-primary pl-4 italic">
