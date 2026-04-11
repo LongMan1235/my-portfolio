@@ -338,11 +338,11 @@ export function ProjectBridge() {
           </p>
 
           <p>
-            The final bridge design - a double-webbed Pi-beam with optimized diaphragm spacing - achieved a Factor of Safety of <span className="text-primary font-semibold">4.00</span> for flexural compression, a substantial improvement over the initial design's 0.616 FOS. This represents a 6.5x improvement in structural safety while maintaining efficient material usage.
+            The final bridge design, a double-webbed Pi-beam with optimized diaphragm spacing, achieved a Factor of Safety of <span className="text-primary font-semibold">4.00</span> for flexural compression, a substantial improvement over the initial design's 0.616 FOS. This represents a 6.5x improvement in structural safety while maintaining efficient material usage.
           </p>
 
           <p>
-            Applying Toulmin's structure enforced disciplined convergence by requiring every design change to be explicitly justified with computational evidence. This made the decision-making process transparent and prevented arbitrary or assumption-based modifications. However, its effectiveness was dependent on the accuracy of the underlying models, meaning that strong logical structure could still produce flawed conclusions if the data itself was incomplete or incorrect. The key lesson was that rigorous argumentation must be paired with validated computational tools - one without the other is insufficient.
+            Applying Toulmin's structure enforced disciplined convergence by requiring every design change to be explicitly justified with computational evidence. This made the decision-making process transparent and prevented arbitrary or assumption-based modifications. However, its effectiveness was dependent on the accuracy of the underlying models, meaning that strong logical structure could still produce flawed conclusions if the data itself was incomplete or incorrect. The key lesson was that rigorous argumentation must be paired with validated computational tools. One without the other is insufficient..
           </p>
 
           <p className="mt-4 text-sm border-l-2 border-primary pl-4 italic">
