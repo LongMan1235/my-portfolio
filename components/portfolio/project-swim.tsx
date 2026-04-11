@@ -217,7 +217,7 @@ export function ProjectSwim() {
           </figure>
 
           <p>
-            <span className="font-semibold text-foreground">The Proxy Test Setup:</span> To evaluate the Umbrella Parachute’s resistive force, we conducted tethered swim testing using a protocol adapted from competitive swimming research (Costa MJ et al.). The setup connected the swimmer to the device via a belt and tether with a force meter in line, allowing us to directly measure drag force during a max effort sprint.
+            <span className="font-semibold text-foreground">The Proxy Test Setup:</span> To evaluate the Umbrella Parachute’s resistive force, we conducted tethered swim testing using a protocol adapted from competitive swimming research [18]. The setup connected the swimmer to the device via a belt and tether with a force meter in line, allowing us to directly measure drag force during a max effort sprint.
           </p>
 
           <p className="mt-4">

@@ -111,6 +111,12 @@ const references: Reference[] = [
     lecture: "K. Ma, 'Testing - Praxis II,' University of Toronto, 2026. [Online]. Available: https://docs.google.com/document/d/1ORw2KCinuY-U6Iy_dkoXKLmLEn0Z8qIGV4Nuu40zN5I/edit?usp=sharing [Accessed: Apr. 11, 2026]",
     quote: "Testing documentation covering the proxy testing protocol, prototype evaluation, and force measurement results for the variable resistance swim device.",
     context: "Authored by Katie Ma. Documents the full testing protocol and results for the MSSAC variable resistance training device."
+  },
+  {
+    id: 18,
+    lecture: "C. C. Santos, D. A. Marinho, H. P. Neiva, and M. J. Costa, 'Propulsive forces in human competitive swimming: a systematic review on direct assessment methods,' Sports Biomechanics, pp. 1-21, 2021. [Online]. Available: https://doi.org/10.1080/14763141.2021.1953574 [Accessed: Apr. 11, 2026]",
+    quote: "Tethered swimming test seems to be a reliable protocol to evaluate the swimmer stroking force production.",
+    context: "Systematic review establishing tethered swimming as a valid and reliable method for measuring in-water swimmer force output. Used to justify the proxy testing protocol in the MSSAC variable resistance swim device project."
   }
 ]
 
