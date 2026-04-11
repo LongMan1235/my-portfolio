@@ -168,7 +168,7 @@ export function ProjectBridge() {
 
         <CTMFCard number={2} strand="Represent" title="Verification: Utilizing Programmatic Representation">
           <p>
-            One of the most significant turning points in this project was the shift from manual calculation to programmatic representation [6]. This transition was not merely a convenience - it fundamentally altered the epistemology of our design process, changing how we generated knowledge about structural behavior and how that knowledge informed decisions.
+            One of the most significant turning points in this project was the shift from manual calculation to programmatic representation [6]. This transition was not merely a convenience. It fundamentally changed how we understood structural behavior and how that understanding informed our decisions.
           </p>
 
           <p>
