@@ -355,7 +355,7 @@ export function ProjectBridge() {
 
       <div className="bg-secondary/30 border border-border rounded-lg p-6 mt-4">
         <p className="text-muted-foreground leading-relaxed">
-          While the technical outcome of this project was strong, reflecting on the process revealed a critical limitation in our approach. The CTMFs we relied on - particularly algorithmic representation and structured argumentation - assume that the transition from theoretical design to physical implementation is seamless. In practice, this assumption was incorrect.
+          While the technical outcome of this project was strong, reflecting on the process revealed a critical limitation in our approach. The CTMFs we relied on, particularly algorithmic representation and structured argumentation, assume that the transition from theoretical design to physical implementation is seamless. In practice, this assumption was incorrect.
         </p>
         <p className="text-muted-foreground leading-relaxed mt-4">
           Our team became heavily focused on optimizing the design computationally. We spent significant time refining the Python model and pursuing marginal gains in structural efficiency. As a result, we delayed physical construction until the night before the deadline. We worked from 7:00 PM to 9:00 AM under fatigue. Contact cement was applied inconsistently, matboard components warped during assembly, and overall build quality was compromised.
