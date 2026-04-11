@@ -308,14 +308,6 @@ export function ProjectTheft() {
         The Magnetic Obsolescence Mechanism advanced to our end-of-term Engineering Showcase, held this past Wednesday, where we presented our design opportunity, engineering process, and final concept to judges and peers. At this stage, the design remains at the Alpha release level. Our recommended next step is further testing to validate the feasibility of the spoke deployment mechanism and confirm compatibility with the gym environment and dumbbell design space. This outcome was the result of a structured engineering process: Scoping and NGOS reframing [8] defined a tractable problem, Concept Clustering [9] and Morphological Analysis [10] systematically converged our solution space, and Toulmin&apos;s Structure of Argument [14] ensured every design decision remained defensible and traceable.
       </p>
 
-      <div className="flex justify-center pt-8">
-        <button
-          onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }); document.documentElement.scrollTo({ top: 0, behavior: 'smooth' }); }}
-          className="text-sm text-muted-foreground hover:text-primary transition-colors border border-border rounded-full px-4 py-2 hover:border-primary/30"
-        >
-          ↑ Back to top
-        </button>
-      </div>
     </div>
   )
 }

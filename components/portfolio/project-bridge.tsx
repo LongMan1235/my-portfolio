@@ -368,14 +368,6 @@ export function ProjectBridge() {
         </p>
       </div>
 
-      <div className="flex justify-center pt-8">
-        <button
-          onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }); document.documentElement.scrollTo({ top: 0, behavior: 'smooth' }); }}
-          className="text-sm text-muted-foreground hover:text-primary transition-colors border border-border rounded-full px-4 py-2 hover:border-primary/30"
-        >
-          ↑ Back to top
-        </button>
-      </div>
     </div>
   )
 }
