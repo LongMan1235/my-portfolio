@@ -229,11 +229,11 @@ export function ProjectBridge() {
           </p>
 
           <p>
-            The programmatic approach also enabled sensitivity analysis - we could systematically vary each parameter and observe which changes had the greatest impact on performance. This revealed that flange width had a disproportionate effect on bending resistance, while web spacing primarily affected local buckling. These insights would have required dozens of manual calculations to discover.
+            The programmatic approach also enabled sensitivity analysis. We could systematically vary each parameter and observe which changes had the greatest impact on performance. This revealed that flange width had a disproportionate effect on bending resistance, while web spacing primarily affected local buckling. These insights would have required dozens of manual calculations to discover.
           </p>
 
           <p>
-            More importantly, this shift embodied a principle that has become central to my approach: <span className="font-semibold">representation should not follow ideation - it should evolve with it.</span> The Python model was not a static verification tool; it was a generative instrument that actively shaped our understanding of the design space and informed where to direct our optimization efforts.
+            More importantly, this shift embodied a principle that has become central to my approach: <span className="font-semibold">representation should not follow ideation. It should evolve with it.</span> The Python model was not a static verification tool. It was a generative instrument that actively shaped our understanding of the design space and informed where to direct our optimization efforts.
           </p>
 
           <p>
