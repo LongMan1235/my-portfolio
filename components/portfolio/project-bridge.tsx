@@ -221,7 +221,7 @@ export function ProjectBridge() {
           </figure>
 
           <p>
-            The graph above illustrates the power of programmatic representation. By plotting bending capacity against train location, we could visually confirm that our final design maintained a substantial safety margin across the entire span. The blue line (Final Iteration) shows a maximum bending capacity of 250Nm, compared to just 43Nm for Design 0 (orange line). The green line represents the actual bending moment from Load Case 1, demonstrating that our design maintains adequate capacity at every point along the bridge.
+            The graph above illustrates the power of programmatic representation. By plotting bending capacity against train location, we could visually confirm that our final design maintained a substantial safety margin across the entire span. The blue line (Final Iteration) shows a maximum bending capacity of 250Nm, compared to just 43Nm for Design 0 (orange line). The green line represents the actual bending moment from Load Case 1, demonstrating that our design maintains adequate capacity at every point along the bridge. The full design process, iteration documentation, and structural analysis are recorded in our project report [15].
           </p>
 
           <p>
