@@ -205,7 +205,7 @@ export function ProjectTheft() {
           </p>
         </CTMFCard>
 
-        <CTMFCard number={3} strand="Converge" title="Paradigm Clustering and Morphological Analysis">
+        <CTMFCard number={3} strand="Converge" title="Concept Clustering and Morphological Analysis">
           <p>
             Having generated over 50 mechanical concepts - ranging from invisible ink to ratcheting cables - we faced severe cognitive overload. We could not evaluate 50 ideas simultaneously against our NGOS [4]. The divergence phase had been successful in breaking cognitive anchors, but it created a new problem: decision paralysis. Every team member had favorite concepts, and without a systematic approach to convergence, we risked falling back on subjective preferences rather than evidence-based selection.
           </p>
