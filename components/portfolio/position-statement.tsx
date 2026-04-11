@@ -151,7 +151,7 @@ export function PositionStatement() {
             Before any ideation or modeling begins, I focus on systematically constraining the problem space through:
           </p>
           <ul className="list-disc list-inside space-y-2 ml-2 text-muted-foreground">
-            <li>stakeholder analysis—a systematic process to identify all parties affected by or influencing a project [3]</li>
+            <li>stakeholder analysis, a systematic process to identify all parties affected by or influencing a project [3]</li>
             <li>identification of functional requirements through understanding the working environment</li>
             <li>translation of qualitative needs into quantitative metrics via GAP analysis</li>
           </ul>
@@ -159,7 +159,7 @@ export function PositionStatement() {
             This is formalized through the development of Needs, Goals, Objectives, and Specifications (NGOS). As the design brief lecture establishes, &quot;a design brief is a document that frames an opportunity from an engineering design perspective&quot; and must provide the information needed to &quot;successfully develop designs with the potential to legitimately address an identified opportunity&quot; [4]. By converting vague requirements into measurable parameters, I establish clear boundaries that define what constitutes a valid solution.
           </p>
           <p className="text-muted-foreground leading-relaxed">
-            The importance of maintaining solution-agnostic objectives is critical. As demonstrated with the headphone example, when objectives become tied to specific implementations (like &quot;having a reel&quot;), designs without that feature become invalid—unnecessarily constraining the design space [3]. This process serves two key purposes:
+            The importance of maintaining solution-agnostic objectives is critical. As demonstrated with the headphone example, when objectives become tied to specific implementations (like &quot;having a reel&quot;), designs without that feature become invalid, unnecessarily constraining the design space [3]. This process serves two key purposes:
           </p>
           <ul className="list-disc list-inside space-y-2 ml-2 text-muted-foreground">
             <li>it eliminates ambiguity, allowing the team to focus on solvable constraints</li>
