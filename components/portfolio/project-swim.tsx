@@ -258,6 +258,15 @@ export function ProjectSwim() {
       <p className="text-muted-foreground leading-relaxed">
         The Umbrella Parachute prototype advanced to our end-of-term Engineering Showcase, held this past Wednesday. At the Showcase, we presented our design opportunity, the engineering process leading to our final concept, and our proxy testing findings to judges and peers. This outcome was the result of a structured engineering process: the PIAA Model [11] grounded our requirements in real stakeholder observations, SCAMPER [12] broke our cognitive anchors to generate non-obvious concepts like the Umbrella Parachute, and Proxy Testing [13] provided the empirical evidence needed to justify our final recommendation. Together, these tools exemplify how structured problem framing, creative divergence, and rigorous convergence can yield engineering solutions tailored to real-world constraints.
       </p>
+
+      <div className="flex justify-center pt-8">
+        <button
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          className="text-sm text-muted-foreground hover:text-primary transition-colors border border-border rounded-full px-4 py-2 hover:border-primary/30"
+        >
+          ↑ Back to top
+        </button>
+      </div>
     </div>
   )
 }

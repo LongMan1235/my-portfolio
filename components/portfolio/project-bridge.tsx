@@ -367,6 +367,15 @@ export function ProjectBridge() {
           Moving forward, I will treat manufacturing time and conditions as core design constraints, not secondary considerations. Engineering does not end at analysis. The physical artifact must reflect the same level of precision as the model that defines it.
         </p>
       </div>
+
+      <div className="flex justify-center pt-8">
+        <button
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          className="text-sm text-muted-foreground hover:text-primary transition-colors border border-border rounded-full px-4 py-2 hover:border-primary/30"
+        >
+          ↑ Back to top
+        </button>
+      </div>
     </div>
   )
 }
