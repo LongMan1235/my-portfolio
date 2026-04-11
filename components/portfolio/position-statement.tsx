@@ -240,6 +240,13 @@ export function PositionStatement() {
             By grounding every design decision in data, I ensure that convergence is driven by verifiable performance rather than intuition. This not only improves the quality of the final solution, but also makes the reasoning behind it defensible and transparent.
           </p>
         </section>
+
+        <section className="space-y-6">
+          <SectionHeading level="h3">Engineering Design Philosophy</SectionHeading>
+          <p className="text-muted-foreground leading-relaxed">
+            Through Praxis II, I have developed a design philosophy that treats every decision as a claim requiring evidence, every problem as a system requiring rigorous framing, and every team as a structure requiring deliberate management. These principles are not isolated techniques. They are a unified approach to engineering that I intend to carry forward. As I move into more complex design challenges, my goal is to continue building systems that are not just functional, but defensible, transparent, and grounded in the needs of the people they serve.
+          </p>
+        </section>
     </div>
   )
 }
