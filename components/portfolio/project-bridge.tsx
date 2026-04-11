@@ -334,7 +334,7 @@ export function ProjectBridge() {
           </p>
 
           <p>
-            This final decision - implementing variable diaphragm spacing - represents a key aspect of engineering optimization: <span className="font-semibold">material should be placed where it contributes most to performance.</span> Rather than treating the structure as uniform, we recognized that different regions experience different stress states and should be reinforced accordingly.
+            This final decision to implement variable diaphragm spacing represents a key aspect of engineering optimization. Material should be placed where it contributes most to performance. Rather than treating the structure as uniform, we recognized that different regions experience different stress states and should be reinforced accordingly.
           </p>
 
           <p>
