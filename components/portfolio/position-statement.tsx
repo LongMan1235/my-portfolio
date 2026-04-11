@@ -120,7 +120,7 @@ export function PositionStatement() {
             Engineering design operates differently. Authority does not validate a design. Evidence does.
           </p>
           <p className="text-muted-foreground leading-relaxed">
-            Because of this, I approach engineering teams as deliberately non-hierarchical systems where ideas are subjected to continuous scrutiny regardless of their source. The CATME research identifies five key categories of effective team member contributions: contributing to the team's work, interacting with teammates, keeping the team on track, expecting quality, and having relevant knowledge, skills, and abilities [1]. My role in these environments involves applying structured pressure to ideas early through isolating assumptions within proposals, testing logical consistency, and identifying potential failure modes.
+            Because of this, I approach engineering teams as deliberately non-hierarchical systems where ideas are subjected to continuous scrutiny regardless of their source. The CATME research identifies five key categories of effective team member contributions: contributing to the team's work, interacting with teammates, keeping the team on track, expecting quality, and having relevant knowledge, skills, and abilities [1]. My role in these environments involves applying structured pressure to ideas early through:
           </p>
           <ul className="list-disc list-inside space-y-2 ml-2 text-muted-foreground">
             <li>isolating assumptions within a proposal</li>
