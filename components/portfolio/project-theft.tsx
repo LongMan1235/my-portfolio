@@ -197,7 +197,7 @@ export function ProjectTheft() {
           </p>
 
           <p>
-            The combination of these two methods generated over 30 distinct mechanical concepts within a single 2-hour session. Many were impractical (e.g., a "smoke bomb" that activates when the weight leaves the gym), but several contained extractable mechanisms that informed our final designs. The discipline of documenting every idea, regardless of initial feasibility assessment, proved critical - the spoke mechanism emerged from an idea that was initially dismissed as "too aggressive."
+            The combination of these two methods generated over 30 distinct mechanical concepts within a single 2-hour session. Many were impractical (e.g., a "smoke bomb" that activates when the weight leaves the gym), but several contained extractable mechanisms that informed our final designs. The discipline of documenting every idea, regardless of initial feasibility assessment, proved critical. The spoke mechanism emerged from an idea that was initially dismissed as "too aggressive."
           </p>
 
           <p className="mt-4 text-sm border-l-2 border-primary pl-4 italic">
