@@ -174,7 +174,7 @@ export function ProjectTheft() {
           </figure>
 
           <p>
-            The reverse brainstorming process began with the inverted question: "How can we cause theft of weights from the Chestnut gym?" The purpose was to identify what enables theft and then flip those causes to find prevention ideas. We systematically documented ways of causing the problem - leaving gym doors unlocked, no staff monitoring, poor lighting, weights being small and portable, no ID tags, racks located close to exits, and no inventory tracking. From this analysis, we derived corresponding prevention measures: lock doors after hours with keycard access, add cameras and sensors, tag all weights with RFID, position racks away from exits, and conduct regular inventory checks.
+            The reverse brainstorming process began with the inverted question of how we could cause theft of weights from the Chestnut gym. The purpose was to identify what enables theft and then flip those causes to find prevention ideas. We systematically documented ways of causing the problem - leaving gym doors unlocked, no staff monitoring, poor lighting, weights being small and portable, no ID tags, racks located close to exits, and no inventory tracking. From this analysis, we derived corresponding prevention measures: lock doors after hours with keycard access, add cameras and sensors, tag all weights with RFID, position racks away from exits, and conduct regular inventory checks.
           </p>
 
           <p>
