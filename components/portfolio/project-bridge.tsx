@@ -361,7 +361,7 @@ export function ProjectBridge() {
           Our team became heavily focused on optimizing the design computationally. We spent significant time refining the Python model and pursuing marginal gains in structural efficiency. As a result, we delayed physical construction until the night before the deadline. We worked from 7:00 PM to 9:00 AM under fatigue. Contact cement was applied inconsistently, matboard components warped during assembly, and overall build quality was compromised.
         </p>
         <p className="text-muted-foreground leading-relaxed mt-4">
-          This exposed a fundamental flaw in our methodology: <span className="font-semibold">a design that is analytically optimal is still dependent on the conditions under which it is built.</span> No amount of computational accuracy can compensate for poor execution due to time constraints or human fatigue.
+          This exposed a fundamental flaw in our methodology. A design that is analytically optimal is still dependent on the conditions under which it is built. No amount of computational accuracy can compensate for poor execution due to time constraints or human fatigue.
         </p>
         <p className="text-muted-foreground leading-relaxed mt-4">
           Moving forward, I will treat manufacturing time and conditions as core design constraints, not secondary considerations. Engineering does not end at analysis. The physical artifact must reflect the same level of precision as the model that defines it.
