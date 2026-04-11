@@ -60,8 +60,8 @@ const references: Reference[] = [
   },
   {
     id: 9,
-    lecture: "ESC101 20259 Lecture 26: Paradigm Clustering",
-    quote: "Paradigm concept clustering enables macro-level evaluation before detailed analysis.",
+    lecture: "ESC101 20259 Lecture 26: Concept Clustering",
+    quote: "How can you gather data about your designs: ... Reference Design similarities",
     context: "By evaluating paradigms rather than individual ideas, teams can quickly eliminate entire categories of solutions that fail key requirements, dramatically reducing decision space and cognitive overload."
   },
   {

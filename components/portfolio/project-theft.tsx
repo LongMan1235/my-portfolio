@@ -211,7 +211,7 @@ export function ProjectTheft() {
           </p>
 
           <p>
-            To manage this, we applied <span className="font-semibold text-foreground">Paradigm Concept Clustering</span> [9]. I helped categorize the raw data into four distinct operational paradigms, each representing a fundamentally different approach to addressing theft:
+            To manage this, we applied <span className="font-semibold text-foreground">Concept Clustering</span> [9]. I helped categorize the raw data into four distinct operational paradigms, each representing a fundamentally different approach to addressing theft:
           </p>
 
           <figure className="flex flex-col items-center gap-2 my-4">
