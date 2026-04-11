@@ -79,7 +79,7 @@ export function ProjectTheft() {
       <SectionHeading level="h3">Establishing Engineering Parameters (NGOS)</SectionHeading>
 
       <p className="text-muted-foreground leading-relaxed">
-        With a clearly scoped problem, the next step was to translate the general goal of &quot;preventing theft&quot; into a set of measurable engineering requirements through Needs, Goals, Objectives, and Specifications (NGOS).
+        With a clearly scoped problem, the next step was to translate the general goal of &quot;preventing theft&quot; into a set of measurable engineering requirements through Needs, Goals, Objectives, and Specifications (NGOS). The full NGOS framework and design opportunity are documented in our Design Brief [16].
       </p>
 
       <ol className="list-decimal list-inside space-y-4 text-muted-foreground leading-relaxed ml-4 mt-4">
