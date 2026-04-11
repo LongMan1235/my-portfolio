@@ -154,7 +154,7 @@ export function ProjectBridge() {
           </ul>
 
           <p>
-            This was not an arbitrary design choice - it was a direct consequence of how the problem was framed. By defining the problem in terms of failure modes rather than abstract "strength," we created a framework where every geometric decision could be evaluated against specific, quantifiable criteria.
+            This was not an arbitrary design choice. It was a direct consequence of how the problem was framed. By defining the problem in terms of failure modes rather than abstract "strength," we created a framework where every geometric decision could be evaluated against specific, quantifiable criteria.
           </p>
 
           <p>
