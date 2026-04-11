@@ -93,6 +93,24 @@ const references: Reference[] = [
     lecture: "ESC101 20259, 'Lecture 26: Toulmin\'s Structure of Argument,' University of Toronto, 2026.",
     quote: "Every claim must be supported by data, connected through warrants, and qualified with rebuttals.",
     context: "Toulmin's framework ensures that design decisions are defensible and transparent. Claims without supporting data or clear warrants are speculation, not engineering justification."
+  },
+  {
+    id: 15,
+    lecture: "R. Sreekumar, N. Xia, and D. Ruffalo, 'Bridge Optimization Project Report,' University of Toronto, 2026. [Online]. Available: https://docs.google.com/document/d/1iyovGbxC9p9lVJLRPXTyc8J12b_2425m9CLw8yZ4iLQ/edit?usp=sharing [Accessed: Apr. 11, 2026]",
+    quote: "Project report documenting the bridge optimization design process, structural analysis, and final recommendations.",
+    context: "Co-authored with Nathan Xia and Daniel Ruffalo. Documents the full engineering design process for the bridge optimization project."
+  },
+  {
+    id: 16,
+    lecture: "R. Sreekumar, Y. Labichi, P. Xu, and A. Jain, 'Design Brief,' University of Toronto, 2026. [Online]. Available: https://drive.google.com/file/d/1whf5R0ei71sA3-EJpBT1vxTnR6Bqr6Cu/view?usp=sharing [Accessed: Apr. 11, 2026]",
+    quote: "Design brief defining the engineering opportunity, stakeholder needs, and NGOS framework for the project.",
+    context: "Co-authored with Yassine Labichi, Perry Xu, and Aditya Jain. Frames the design opportunity and establishes the NGOS framework."
+  },
+  {
+    id: 17,
+    lecture: "K. Ma, 'Testing - Praxis II,' University of Toronto, 2026. [Online]. Available: https://docs.google.com/document/d/1ORw2KCinuY-U6Iy_dkoXKLmLEn0Z8qIGV4Nuu40zN5I/edit?usp=sharing [Accessed: Apr. 11, 2026]",
+    quote: "Testing documentation covering the proxy testing protocol, prototype evaluation, and force measurement results for the variable resistance swim device.",
+    context: "Authored by Katie Ma. Documents the full testing protocol and results for the MSSAC variable resistance training device."
   }
 ]
 
