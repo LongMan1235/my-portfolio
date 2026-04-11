@@ -220,34 +220,16 @@ export function ProjectSwim() {
             <span className="font-semibold text-foreground">The Proxy Test Setup:</span> To evaluate the Umbrella Parachute’s resistive force, we conducted tethered swim testing using a protocol adapted from competitive swimming research (Costa MJ et al.). The setup connected the swimmer to the device via a belt and tether with a force meter in line, allowing us to directly measure drag force during a max effort sprint.
           </p>
 
-          <p>
-            The test protocol involved:
+          <p className="mt-4">
+            The test protocol involved testing both a mesh parachute and an umbrella parachute prototype in closed and open states, with three swim trials per configuration. Force readings were recorded at peak effort using a force meter tracking maximum encountered force, and results were averaged across trials to reduce measurement variance.
           </p>
-
-          <ul className="list-disc list-inside ml-4 space-y-2 mt-3">
-            <li>Five pull trials at each simulated deployment angle</li>
-            <li>Consistent pull speed maintained through visual pacing markers</li>
-            <li>Force readings recorded at steady-state (eliminating acceleration artifacts)</li>
-            <li>Statistical averaging across trials to reduce measurement variance</li>
-          </ul>
 
           <p className="mt-4">
             The mesh parachute produced an average closed-state force of 35N (trials: 32, 42, 30N). The open state failed during testing due to significant mesh deformation, meaning it did not meet Requirement 1.4. The umbrella parachute produced an average closed-state force of 30N (trials: 25, 31, 34N) and an average open-state force of 101N (trials: 111, 90, 102N). Since the prototypes were approximately 5% smaller than the final design, the projected forces for the final design are 39N (closed) and 108N (open), directly satisfying our maximum resistive force requirement. Larger open-state forces can be achieved by increasing arm length.
           </p>
 
-          <p>
-            Specifically, we found that:
-          </p>
-
-          <ul className="list-disc list-inside ml-4 space-y-2 mt-3">
-            <li>Each 15-degree change in deployment angle produced approximately 18-22% change in drag force</li>
-            <li>The force-angle relationship was monotonic (more open = more drag, always)</li>
-            <li>Variance between trials at the same angle was less than 8%, within our 10% requirement</li>
-            <li>The mechanism produced distinctly different force levels at 5 tested angles (0°, 30°, 45°, 60°, 90°)</li>
-          </ul>
-
           <p className="mt-4">
-            
+            This testing validated the Umbrella Parachute as the superior prototype, providing the empirical evidence needed to justify our design recommendation.
           </p>
 
           <p>
