@@ -221,11 +221,18 @@ export function ProjectSwim() {
           </p>
 
           <p className="mt-4">
-            The test protocol involved testing both a mesh parachute and an umbrella parachute prototype in closed and open states, with three swim trials per configuration. Force readings were recorded at peak effort using a force meter tracking maximum encountered force, and results were averaged across trials to reduce measurement variance.
+            The test protocol involved:
           </p>
 
+          <ul className="list-disc list-inside ml-4 space-y-2 mt-3">
+            <li>Testing both a mesh parachute and an umbrella parachute prototype in closed and open states</li>
+            <li>Three swim trials per prototype configuration</li>
+            <li>Force readings recorded at peak effort using a force meter tracking maximum encountered force</li>
+            <li>Statistical averaging across trials to reduce measurement variance</li>
+          </ul>
+
           <p className="mt-4">
-            The mesh parachute produced an average closed-state force of 35N (trials: 32, 42, 30N). The open state failed during testing due to significant mesh deformation, meaning it did not meet Requirement 1.4. The umbrella parachute produced an average closed-state force of 30N (trials: 25, 31, 34N) and an average open-state force of 101N (trials: 111, 90, 102N). Since the prototypes were approximately 5% smaller than the final design, the projected forces for the final design are 39N (closed) and 108N (open), directly satisfying our maximum resistive force requirement. Larger open-state forces can be achieved by increasing arm length.
+            The mesh parachute produced an average closed-state force of <strong>35N</strong> (trials: 32, 42, 30N). The open state failed during testing due to significant mesh deformation, meaning it did not meet Requirement 1.4. The umbrella parachute produced an average closed-state force of <strong>30N</strong> (trials: 25, 31, 34N) and an average open-state force of <strong>101N</strong> (trials: 111, 90, 102N). Since the prototypes were approximately 5% smaller than the final design, the projected forces for the final design are <strong>39N</strong> (closed) and <strong>108N</strong> (open), directly satisfying our maximum resistive force requirement. Larger open-state forces can be achieved by increasing arm length.
           </p>
 
           <p className="mt-4">
