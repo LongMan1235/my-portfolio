@@ -302,6 +302,11 @@ export function ProjectTheft() {
       <p className="text-muted-foreground leading-relaxed">
         The final recommended design integrates a Hall effect magnetic sensor at the gym exit threshold with a spring-loaded spoke deployment mechanism embedded in the dumbbell handle. When a dumbbell passes through the doorway without proper authorization, the sensor triggers an electromagnetic release that allows the compressed springs to deploy six radial spokes, rendering the object impossible to grip and therefore useless outside the gym environment.
       </p>
+
+      <SectionHeading level="h3">Final Outcome and Implementation</SectionHeading>
+      <p className="text-muted-foreground leading-relaxed">
+        The Magnetic Obsolescence Mechanism advanced to our end-of-term Engineering Showcase, held this past Wednesday, where we presented our design opportunity, engineering process, and final concept to judges and peers. At this stage, the design remains at the Alpha release level. Our recommended next step is further testing to validate the feasibility of the spoke deployment mechanism and confirm compatibility with the gym environment and dumbbell design space. This outcome was the result of a structured engineering process: Scoping and NGOS reframing [8] defined a tractable problem, Concept Clustering [9] and Morphological Analysis [10] systematically converged our solution space, and Toulmin&apos;s Structure of Argument [14] ensured every design decision remained defensible and traceable.
+      </p>
     </div>
   )
 }
