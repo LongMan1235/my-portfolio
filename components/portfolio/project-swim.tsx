@@ -217,7 +217,7 @@ export function ProjectSwim() {
           </figure>
 
           <p>
-            <span className="font-semibold text-foreground">The Proxy Test Setup:</span> To evaluate the Umbrella Parachute drag characteristics, we set up a scaled water-based proxy test using a rigid disc (representing the parachute canopy) attached to a digital force gauge. The force gauge, rated for 35kg with 500g/1lb graduation, allowed us to measure drag forces directly in Newtons. We conducted tests by pulling the proxy through the water at consistent speeds, with one team member maintaining velocity while another recorded force readings.
+            <span className="font-semibold text-foreground">The Proxy Test Setup:</span> To evaluate the Umbrella Parachute’s resistive force, we conducted tethered swim testing using a protocol adapted from competitive swimming research (Costa MJ et al.). The setup connected the swimmer to the device via a belt and tether with a force meter in line, allowing us to directly measure drag force during a max effort sprint.
           </p>
 
           <p>
@@ -232,7 +232,7 @@ export function ProjectSwim() {
           </ul>
 
           <p className="mt-4">
-            The proxy test revealed critical performance data. For the flat disc (representing maximum deployment), we measured consistent drag forces in the 8-12 lb range at swimming speeds. By angling the disc to simulate partial deployment, we observed proportional force reductions that followed a predictable pattern. The key finding was that geometric adjustability, specifically changing the angle of attack, produced <em>consistent, repeatable</em> drag increments.
+            The mesh parachute produced an average closed-state force of 35N (trials: 32, 42, 30N). The open state failed during testing due to significant mesh deformation, meaning it did not meet Requirement 1.4. The umbrella parachute produced an average closed-state force of 30N (trials: 25, 31, 34N) and an average open-state force of 101N (trials: 111, 90, 102N). Since the prototypes were approximately 5% smaller than the final design, the projected forces for the final design are 39N (closed) and 108N (open), directly satisfying our maximum resistive force requirement. Larger open-state forces can be achieved by increasing arm length.
           </p>
 
           <p>
@@ -247,11 +247,11 @@ export function ProjectSwim() {
           </ul>
 
           <p className="mt-4">
-            This proxy test validated our hypothesis that the Umbrella Parachute mechanism could satisfy the 5-level adjustability requirement with less than 10% variance between levels. The geometric adjustability of the opening angle directly correlated with measurable force differences, providing the empirical evidence needed to justify our design recommendation.
+            
           </p>
 
           <p>
-            By combining <span className="text-primary">Proxy Testing</span> with quantitative force measurements, we objectively demonstrated that the geometric adjustability of the Umbrella Parachute provided superior, repeatable resistance intervals compared to friction-based alternatives (like the Screw-Bracket Zipline, which showed higher variance due to cable condition and lubrication effects). This data-driven comparison drove our final convergence to recommend the Umbrella Parachute for beta testing and deployment.
+            By combining proxy testing with quantitative force measurements, we objectively demonstrated that the Umbrella Parachute produced a maximum resistive force of 108N at full deployment, satisfying our core functionality requirement. The mesh parachute was eliminated due to structural failure under open-state loading, while the umbrella parachute’s rigid canopy maintained consistent force output across trials with low variance. This data-driven comparison drove our final convergence to recommend the Umbrella Parachute for beta testing and deployment.
           </p>
 
           <p>
