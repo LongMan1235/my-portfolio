@@ -155,7 +155,7 @@ export function ProjectTheft() {
 
         <CTMFCard number={2} strand="Diverge" title="Reverse Brainstorming and the Random Noun Method">
           <p>
-            To generate high-yield mechanical concepts, we needed to bypass our initial cognitive anchors [7]. We deployed two highly structured diverging tools with significant success. The challenge we faced was that our team - comprised primarily of engineering students - naturally gravitated toward surveillance-based solutions: cameras, RFID tracking, check-in/check-out systems. These were the "obvious" answers, but they were also administratively dependent and failed to engage with the physical system we were designing for.
+            To generate high-yield mechanical concepts, we needed to bypass our initial cognitive anchors [7]. We deployed two highly structured diverging tools with significant success. The challenge we faced was that our team, comprised primarily of engineering students, naturally gravitated toward surveillance-based solutions: cameras, RFID tracking, check-in/check-out systems. These were the "obvious" answers, but they were also administratively dependent and failed to engage with the physical system we were designing for.
           </p>
 
           <p>
