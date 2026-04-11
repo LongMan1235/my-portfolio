@@ -295,7 +295,7 @@ export function ProjectTheft() {
           className="w-full max-w-xl mx-auto rounded-md border border-border bg-white object-contain"
         />
         <figcaption className="text-sm text-muted-foreground text-center">
-          <strong>Figure 2.3:</strong> CAD model of the final "Spokes" mechanism. The 6-spoke radial deployment renders the dumbbell ungrippable when triggered by the magnetic threshold sensor at the exit.
+          <strong>Figure 2.3:</strong> CAD model of the final "Spokes" mechanism by Perry Xu. The 6-spoke radial deployment renders the dumbbell ungrippable when triggered by the magnetic threshold sensor at the exit.
         </figcaption>
       </figure>
 

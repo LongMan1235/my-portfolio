@@ -64,7 +64,7 @@ export function ProjectSwim() {
           className="w-full max-w-xl mx-auto rounded-md border border-border bg-white object-contain"
         />
         <figcaption className="text-sm text-muted-foreground text-center">
-          <strong>Figure 4.1:</strong> 3D CAD model of the Umbrella Parachute mechanism showing the articulating rib structure and central adjustment hub.
+          <strong>Figure 4.1:</strong> 3D CAD model of the Umbrella Parachute mechanism by Vedant Nehete, showing the articulating rib structure and central adjustment hub.
         </figcaption>
       </figure>
 
@@ -212,7 +212,7 @@ export function ProjectSwim() {
               className="w-full max-w-lg mx-auto rounded-md border border-border object-cover"
             />
             <figcaption className="text-sm text-muted-foreground text-center">
-              <strong>Figure 4.5:</strong> Proxy testing setup in pool with force gauge measuring drag resistance of a parachute proxy (frisbee) at controlled pull speeds.
+              <strong>Figure 4.5:</strong> Proxy testing conducted by Katie Ma. Setup in pool with force gauge measuring drag resistance of a parachute proxy (frisbee) at controlled pull speeds.
             </figcaption>
           </figure>
 
