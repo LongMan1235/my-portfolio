@@ -256,7 +256,7 @@ export function ProjectSwim() {
       <SectionHeading level="h3">Final Outcome and Implementation</SectionHeading>
 
       <p className="text-muted-foreground leading-relaxed">
-        The Umbrella Parachute concept advanced to beta release and field testing with the MSSAC coaching staff. This project exemplifies how structured problem framing, creative divergence, and rigorous proxy-based convergence can yield engineering solutions tailored to real-world constraints that professional testing facilities cannot access. The final device is currently undergoing athlete validation trials at the facility.
+        The Umbrella Parachute prototype advanced to our end-of-term Engineering Showcase, held this past Wednesday. At the Showcase, we presented our design opportunity, the engineering process leading to our final concept, and our proxy testing findings to judges and peers. This outcome was the result of a structured engineering process: the PIAA Model [11] grounded our requirements in real stakeholder observations, SCAMPER [12] broke our cognitive anchors to generate non-obvious concepts like the Umbrella Parachute, and Proxy Testing [13] provided the empirical evidence needed to justify our final recommendation. Together, these tools exemplify how structured problem framing, creative divergence, and rigorous convergence can yield engineering solutions tailored to real-world constraints.
       </p>
     </div>
   )
